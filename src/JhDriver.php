@@ -14,7 +14,7 @@ namespace Hyperf\ConfigJh;
 use Hyperf\ConfigCenter\AbstractDriver;
 use Psr\Container\ContainerInterface;
 
-class JhrDriver extends AbstractDriver
+class JhDriver extends AbstractDriver
 {
     protected $driverName = 'jhconfig';
 
