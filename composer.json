@@ -16,7 +16,7 @@
     },
     "autoload":{
         "psr-4":{
-            "Hyperf\\configJh\\":"./src/"
+            "Hyperf\\ConfigJh\\":"./src/"
         }
     },
     "extra": {

@@ -16,7 +16,7 @@ use Psr\Container\ContainerInterface;
 
 class JhrDriver extends AbstractDriver
 {
-    protected $driverName = 'jh';
+    protected $driverName = 'jhconfig';
 
     public function __construct(ContainerInterface $container)
     {
